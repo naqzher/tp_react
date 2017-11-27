@@ -1,0 +1,6 @@
+{
+	"nombre": "Juan",
+	"apellido": "Perez",
+	"edad": 18,
+	"ropa": ["remera", "pantalon", "campera", "gorra"]
+}
